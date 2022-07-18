@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavmalawat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+Hello 👋, I'm Raghav Malawat, a FullStack developer based out of Bengaluru, India. Taking a first principle approach to building products interests me, and metrics is something I really like moving.
+ 
+Always up for conversations around the Indian equity markets and the startup ecosystem in general 🚀. Currently working as a Product engineer alongside amazing folks at CoLearn. 
+
+I have always been fascinated by coding and problem solving in general, been coding since age 14. Crossed paths with a lot of smart, hard working folks till now in the industry and hope to meet more similar folks who are as equally passionate about their craft as I am. Cheers 🍻!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **raghavmalawat/raghavmalawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
