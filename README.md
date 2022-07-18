@@ -11,9 +11,6 @@ I have always been fascinated by coding and problem solving in general, been cod
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![Raghav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raghavmalawat)](https://github.com/raghavmalawat/github-readme-stats)
-
-
 
 📈 **My GitHub Stats:**
 
