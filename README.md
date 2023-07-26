@@ -9,8 +9,6 @@ I have always been fascinated by coding and problem solving in general, been cod
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.raghavmalawat.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raghavmalawat)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 <!--
 **raghavmalawat/raghavmalawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
